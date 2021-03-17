@@ -1,0 +1,10 @@
+README.md
+setup.py
+bot/__init__.py
+bot/helper_funcs.py
+bot/main.py
+bot/test.py
+stonks_bot.egg-info/PKG-INFO
+stonks_bot.egg-info/SOURCES.txt
+stonks_bot.egg-info/dependency_links.txt
+stonks_bot.egg-info/top_level.txt
